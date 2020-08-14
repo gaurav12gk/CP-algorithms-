@@ -30,7 +30,8 @@ int print(int n)
   print(n-1); 
 
  }
- 
+    
+ }
 void solve()
 { 
 int n;
