@@ -31,7 +31,6 @@ int print(int n)
 
  }
  
- }
 void solve()
 { 
 int n;
