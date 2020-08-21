@@ -23,30 +23,34 @@
 
 # define fast ios_base::sync_with_stdio(false) ; cin.tie(0) ; cout.tie(0);
 using namespace std;
-int count=0;
-void sub(string ip,string op)
+void space(string ip,string op)
 {
-    if(ip.size()==0){
-        cout<<op<<" ";
-        ::count++;
-        return;
-    }
-    string op1=op;
-    string op2="";
-    op2.push_back(ip[0]);
-    ip.erase(ip.begin()+0);
-    sub(ip,op2);
-    sub(ip,op1);
+if(ip.size()==0){
+    cout<<op<<line;
+    return;
+}
+string  op1=op;
+string op2=op;
+op2.push_back(' ');
+op2.push_back(ip[0]);
+op1.push_back(ip[0]);
+ip.erase(ip.begin()+0);
+space(ip,op2);
+space(ip,op1);
+return; 
+
 }
 void solve()
 { 
 string a;
 cin>>a;
 string op="";
-sub(a,op);
-cout<<line<<::count;
-}
+op.push_back(a[0]);
+a.erase(a.begin()+0);
 
+space(a,op);
+
+}
 
 
 int main()
