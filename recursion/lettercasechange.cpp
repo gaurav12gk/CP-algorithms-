@@ -33,8 +33,11 @@ string op1=op;
 string op2=op;
 if(isalpha(ip[0]))
 {
+    char a=ip[0];
+    if(isupper(a))tolower(a);
+    if(islower(a))toupper(a);
     op1.push_back(ip[0]);
-        op2.push_back(toupper(ip[0]));
+        op2.push_back(a);
         ip.erase(ip.begin()+0);
         change(ip,op1);
         change(ip,op2);
