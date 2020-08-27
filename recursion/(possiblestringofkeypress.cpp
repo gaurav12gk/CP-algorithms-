@@ -23,28 +23,44 @@
 using namespace std;
 int row[]={0,0,1,1,-1,1,-1,-1};
 int col[]={1,-1,-1,1,1,0,0,-1};
-void print(int n,string op)
+map<char,string> m;
+void numbmap()
 {
-    if(n<=0){
-        cout<<op<<line;
-        return;
-    }
-    string a="01";
-    loop(i,0,a.size())
-    {
-        string op1=op;
-        char aa=a[i];
-        op1.push_back(aa);
-        print(n-1,op1);
-    }
+m['2']="abc";
+m['3']="def";
+m['4']="jhi";
+m['5']="jkl";
+m['6']="mno";
+m['7']="pqrs";
+m['8']="tuv";
+m['9']="wzyz";
 }
-void solve()
-{ 
-    int n;
-    cin>>n;
-    string op="";
-    print(n,op);
+void print(string n,string op,int xi,int pi)
+{
+    if(op.size()==n.size())
+    {cout<<op<<line;
+    return;
+    }
+char a=n[xi];
+string s=m[a];
+loop(i,0,s.size())
+{
+    string op1=op;
+    op1.push_back(s[i]);
 
+  
+    print(n,op1,xi+1,pi+1);
+}    
+}
+
+
+void solve()
+{ numbmap();
+
+string n;
+cin>>n;
+string op="";
+print(n,op,0,0);
 }
 
 int main()
