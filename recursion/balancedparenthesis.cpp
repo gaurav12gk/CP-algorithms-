@@ -1,3 +1,11 @@
+/* Print out the balanced paranthesis using recursion 
+INPUT will be an integer and output is the string with balanced paranthesis
+INPUT :-
+2
+OUTPUT :-
+(())
+()()
+*/
 #include<bits/stdc++.h>
 #define MOD 1000000007
 #define line "\n"

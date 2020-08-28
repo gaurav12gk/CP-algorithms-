@@ -1,3 +1,25 @@
+/* You have to find the possible combination when when we press the phone keypad buttons 
+input will be a string of any size and output will be the comnbination bases
+on the keypress.
+eg.
+INPUT :-
+23
+OUTPUT:-
+ad
+ae
+af
+bd
+be
+bf
+cd
+ce
+cf
+explanation :- When we press the 2 then the possible alphabets are a,b,c
+Since we have the only 2 places to fill so the first place is filled by 2nd button 
+i.e a,b,c and the remaining place is filled by the 3rd button i.e.d,e,f 
+Exclude the 1,*,#,0
+*/
+
 #include<bits/stdc++.h>
 #define MOD 1000000007
 #define line "\n"

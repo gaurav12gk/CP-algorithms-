@@ -1,3 +1,13 @@
+/*
+You have given the stack you have to delete the given element from the stack 
+using recursion .
+INPUT :-
+5
+1  2 3 4 5 
+3
+OUTPUT:-
+1 2 4 5 
+*/
 #include<bits/stdc++.h>
 #define MOD 1000000007
 #define line "\n"

@@ -1,3 +1,20 @@
+/* abbreviation problem you have to print the following output 
+if INPUT is a string eg.
+INPUT:-
+abc
+OUTPUT:-
+abc                | 000
+ab1                | 001
+a1c                | 010
+a2                 | 011
+1bc                | 100
+1b1                | 101
+2c                 | 110
+3                  | 111
+
+output will be based on the above example 
+*/
+
 #include<bits/stdc++.h>
 #define MOD 1000000007
 #define line "\n"
