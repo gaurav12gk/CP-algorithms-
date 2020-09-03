@@ -23,56 +23,66 @@
 using namespace std;
 const int row[]={0,0,1,1,-1,1,-1,-1};
 const int col[]={1,-1,-1,1,1,0,0,-1};
-
-int visited[6];
-vi v[6];
-void bfs(int source)
+////////////////////DFS/////////////////////
+void dfs(int source,vi &visited, vi v[])
 {
     visited[source]=1;
+   int current =source;
+   for(int i=0;i<v[current].size();i++)
+   {   int child=v[current][i];
+       if(visited[child]==0)dfs(child,visited,v);
+   }
+
+
+//////////////////////BFS//////////////////////////////////////
+void bfs(int source, vi &visited, vi v[])
+{
     queue<int> q;
+    visited[source]=1;
     q.push(source);
     while(!q.empty())
     {
-int current = q.front();
-q.pop();
-cout<<current<<line;
-for(int i=0;i<v[current].size();i++)
-{
-    int child=v[current][i];
-    if(visited[child]==0)
-    {
-       
-        q.push(child);
-        visited[child]=1;
+        int current =source;
+        q.pop();
+        loop(i,0,v[current].size())
+        {
+            int child=v[current][i];
+            if(visited[child]==0)
+            {
+                q.push(child);
+            visited[child]=1;
+            }
+        }
     }
-      
 }
 
 
-    }
-}
-v oid solve()
+//******************************************************
+void solve()
+{ 
+int n;
+cin>>n;
+int m;
+cin>>m;
+vi visited(n);
+vi v[n];
+while(m--)
 {
-    int n,m;
-    cin>>n>>m;
     int x,y;
-   
-    loop(i,0,m)
-    {
-        cin>>x>>y;
-        v[x].pb(y);
-        v[y].pb(x);
-    }
-   bfs(1);
-   loop(i,1,n+1)
-{
-    cout<<i<<"-> ";
-    loop(j,0,v[i].size())
-    {
-        cout<<v[i][j]<< ",";
-    }
-    cout<<line;
+    cin>>x>>y;
+ v[x].pb(y);
+ v[y].pb(x);
+
 }
+int count=0;
+
+for(int i=0;i<n;i++)
+{if(visited[i]==0){
+bfs(i,visited,v);
+count++;}
+}
+cout<<count;
+
 }
 
 int main()
