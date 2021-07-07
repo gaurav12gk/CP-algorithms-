@@ -1,0 +1,331 @@
+[33mcommit 6db7433a9c03c07e1b47bba2d1829fbee7b97a86[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Gaurav Kandpal <kandpal862@gmail.com>
+Date:   Wed Jul 7 15:04:18 2021 +0530
+
+    Graphs
+
+[33mcommit 4530e40d9ac5f3a531a3103b2e7ff6e1f900865f[m
+Author: Gaurav Kandpal <kandpal862@gmail.com>
+Date:   Fri Jun 25 17:56:01 2021 +0530
+
+     Leetcode solution
+
+[33mcommit 56c3d10905bdb0a918090bc19418aefbe5f83b91[m
+Author: Gaurav Kandpal <kandpal862@gmail.com>
+Date:   Fri Jun 25 16:12:02 2021 +0530
+
+     Slididng window
+
+[33mcommit beccff97b54906eaa75c1ef06892f3420a80f86f[m
+Author: Gaurav Kandpal <kandpal862@gmail.com>
+Date:   Mon Jun 21 18:11:30 2021 +0530
+
+    dsa
+
+[33mcommit 44b0074f7607c33508c14d99f82dfe5e4c33bfdf[m
+Author: Gaurav Kandpal <kandpal862@gmail.com>
+Date:   Wed Jun 9 17:51:31 2021 +0530
+
+    cses
+
+[33mcommit 96f82f6b317a86df17226a0279ab8db8b7d8f491[m
+Merge: 07dd582 7fc5d3c
+Author: Gaurav Kandpal <kandpal862@gmail.com>
+Date:   Tue Jun 8 20:35:58 2021 +0530
+
+    Merge branch 'master' of github.com:gaurav12gk/CP-algorithms- into master
+
+[33mcommit 07dd5823f324bd2d8e7b333b10f4ed9bdf0916cc[m
+Author: Gaurav Kandpal <kandpal862@gmail.com>
+Date:   Tue Jun 8 20:35:36 2021 +0530
+
+    cses
+
+[33mcommit 7fc5d3c6d7f6138191a517e852196531d28212c9[m
+Author: Gaurav Kandpal <43899127+gaurav12gk@users.noreply.github.com>
+Date:   Thu Mar 11 00:35:45 2021 +0700
+
+    Delete main.cpp
+
+[33mcommit 5ec42412947954f4c4f265db5476555344e9149b[m
+Author: Gaurav Kandpal <kandpal862@gmail.com>
+Date:   Thu Mar 4 17:34:26 2021 +0530
+
+    tring
+
+[33mcommit 03eab987233379aa639381116863b4bd0933161b[m
+Author: Gaurav Kandpal <kandpal862@gmail.com>
+Date:   Sun Dec 27 17:02:05 2020 +0530
+
+     initial
+
+[33mcommit 009e089c05b4cdd9d5baa66677835615f5d2245c[m
+Author: Gaurav Kandpal <kandpal862@gmail.com>
+Date:   Thu Nov 19 12:53:42 2020 +0530
+
+    initial
+
+[33mcommit f284970bbec4e058a634cabc83c8ed922d404165[m
+Author: Gaurav Kandpal <kandpal862@gmail.com>
+Date:   Sat Oct 31 13:47:47 2020 +0530
+
+     dP
+
+[33mcommit 5e47ed28f306824d1b18e4e5b4533c109fba9af8[m
+Author: Gaurav Kandpal <kandpal862@gmail.com>
+Date:   Sat Oct 3 22:23:03 2020 +0530
+
+    binarysearch
+
+[33mcommit 8ad540184dc7a30dc9738eb97413cb24d18ecb13[m
+Author: Gaurav Kandpal <kandpal862@gmail.com>
+Date:   Thu Sep 10 23:15:40 2020 +0530
+
+    initial
+
+[33mcommit d34fd9d2013778bc7f673cffd0e2aee60854e299[m
+Author: Gaurav Kandpal <kandpal862@gmail.com>
+Date:   Sat Sep 5 23:21:28 2020 +0700
+
+    initial
+
+[33mcommit 2b8d9b038aeb0b21cc3a2129fe7f029967fdd3ee[m
+Author: Gaurav Kandpal <kandpal862@gmail.com>
+Date:   Sat Sep 5 15:15:54 2020 +0700
+
+    inital
+
+[33mcommit ead2ad15758e734041e70f7f55f98e3e4fecd54c[m
+Author: Gaurav Kandpal <kandpal862@gmail.com>
+Date:   Fri Sep 4 13:31:12 2020 +0700
+
+    initial
+
+[33mcommit b672d90bd56a8af2a235f2a63e106c76441b9ef6[m
+Author: Gaurav Kandpal <kandpal862@gmail.com>
+Date:   Thu Sep 3 23:37:05 2020 +0700
+
+     inital
+
+[33mcommit f39ab2c5840d2ae9fe2092f88b5c10fe85c6da79[m
+Author: Gaurav Kandpal <kandpal862@gmail.com>
+Date:   Wed Sep 2 21:08:51 2020 +0700
+
+    inital
+
+[33mcommit a49062a3024a9a2df2196c57d9faed3f189e18d5[m
+Author: Gaurav Kandpal <kandpal862@gmail.com>
+Date:   Wed Sep 2 20:45:52 2020 +0700
+
+    Graphs
+
+[33mcommit 4acd59033c3782e3dd4d3b8d2f393ff5f3635323[m
+Author: Gaurav Kandpal <kandpal862@gmail.com>
+Date:   Fri Aug 28 22:32:58 2020 +0700
+
+    initial
+
+[33mcommit 13c77f93cb7413bbbc0eda6c0f69c44184368fa6[m
+Author: Gaurav Kandpal <kandpal862@gmail.com>
+Date:   Fri Aug 28 16:09:48 2020 +0700
+
+    initial
+
+[33mcommit 7393c9e83d32f7891d2ee629c6fea877d052cd86[m
+Author: Gaurav Kandpal <kandpal862@gmail.com>
+Date:   Fri Aug 28 16:08:25 2020 +0700
+
+     initial
+
+[33mcommit 418edb7756f3e972b3678abb2b41038788494104[m
+Author: Gaurav Kandpal <kandpal862@gmail.com>
+Date:   Thu Aug 27 16:22:47 2020 +0700
+
+    backtracking
+
+[33mcommit 0a76c9f8b2a41ed83f6b3fa10e7044ae27d75a80[m
+Author: Gaurav Kandpal <kandpal862@gmail.com>
+Date:   Sun Aug 23 00:19:28 2020 +0530
+
+     initial
+
+[33mcommit 7a0961e15137b7929190159a77f17b0bfd996fc8[m
+Author: Gaurav Kandpal <kandpal862@gmail.com>
+Date:   Sat Aug 22 23:45:51 2020 +0530
+
+    initial
+
+[33mcommit b9cfa6b8b6361bfd35c546ca72fbe9fb3d83fef9[m
+Author: Gaurav Kandpal <kandpal862@gmail.com>
+Date:   Sat Aug 22 16:55:32 2020 +0530
+
+     intial
+
+[33mcommit e380ed0a662c011e06c96a5bf8f974377d6e8038[m
+Author: Gaurav Kandpal <kandpal862@gmail.com>
+Date:   Sat Aug 22 16:51:28 2020 +0530
+
+     initial
+
+[33mcommit 7a576d1eb49ccdd76196d0fdb2de3d871d5508b3[m
+Author: Gaurav Kandpal <kandpal862@gmail.com>
+Date:   Sat Aug 22 16:29:48 2020 +0530
+
+     initial
+
+[33mcommit b32583e1e48162f4c89a0c0cdccb951430857acb[m
+Author: Gaurav Kandpal <kandpal862@gmail.com>
+Date:   Fri Aug 21 14:18:13 2020 +0530
+
+     intial
+
+[33mcommit cd2894065889867a1014d727649288cce818ed6f[m
+Author: Gaurav Kandpal <kandpal862@gmail.com>
+Date:   Fri Aug 21 14:12:20 2020 +0530
+
+     initial;
+
+[33mcommit 2542a6a3b70cde84c57cadf240c7d013734af400[m
+Author: Gaurav Kandpal <kandpal862@gmail.com>
+Date:   Thu Aug 20 13:38:28 2020 +0530
+
+     intial
+
+[33mcommit 21ef85e89c614e6007a6897860cbec2931dcab73[m
+Author: Gaurav Kandpal <kandpal862@gmail.com>
+Date:   Wed Aug 19 20:53:45 2020 +0530
+
+    inital
+
+[33mcommit 918db5bfea3ae99ab50c525f663a433e8679b383[m
+Author: Gaurav Kandpal <kandpal862@gmail.com>
+Date:   Wed Aug 19 14:10:22 2020 +0530
+
+     initial
+
+[33mcommit 07ea171b1d01eaf185b7ecbc70e6ff64fb989cb1[m
+Author: Gaurav Kandpal <kandpal862@gmail.com>
+Date:   Wed Aug 19 13:45:09 2020 +0530
+
+     intial
+
+[33mcommit b0751a4f4a53c846cc15093063b6e4e3b8945120[m
+Author: Gaurav Kandpal <kandpal862@gmail.com>
+Date:   Tue Aug 18 19:43:31 2020 +0530
+
+     stack
+
+[33mcommit f1e469271a0d14ae8285039185c80406f7c7db6e[m
+Author: Gaurav Kandpal <kandpal862@gmail.com>
+Date:   Tue Aug 18 19:09:27 2020 +0530
+
+     sort
+
+[33mcommit 2a32a5bd5847c0c3727d5749a7fdb9c52f823894[m
+Author: Gaurav Kandpal <kandpal862@gmail.com>
+Date:   Fri Aug 14 13:15:52 2020 +0530
+
+    try
+
+[33mcommit 7071619a4a9669a3ebe73610f9966e0e58cf50dd[m
+Merge: c2a741d 730b465
+Author: Gaurav Kandpal <kandpal862@gmail.com>
+Date:   Fri Aug 14 13:00:57 2020 +0530
+
+    Merge branch 'master' of github.com:gaurav12gk/CP-algorithms-
+
+[33mcommit c2a741dfdd9a470d8e37bdbb5e0fa8765e84e51f[m
+Author: Gaurav Kandpal <kandpal862@gmail.com>
+Date:   Fri Aug 14 12:52:23 2020 +0530
+
+    inital
+
+[33mcommit c885cf8b935b8d44745c7f549c832e5fe8dd615f[m
+Author: Gaurav Kandpal <kandpal862@gmail.com>
+Date:   Thu Aug 13 17:05:32 2020 +0530
+
+    recursion
+
+[33mcommit 894e8a39b83843f1e0dd308edd02888e057a247b[m
+Author: Gaurav Kandpal <kandpal862@gmail.com>
+Date:   Sat Aug 1 15:35:39 2020 +0530
+
+    bs
+
+[33mcommit 35e05e38f65f6400e0e4bbcf18f3b912a747a10f[m
+Author: Gaurav Kandpal <kandpal862@gmail.com>
+Date:   Fri Jul 31 17:02:01 2020 +0530
+
+    deletd
+
+[33mcommit 730b4653b65f4affea8c0bcd2fed6aa3ff39159a[m
+Author: Gaurav Kandpal <43899127+gaurav12gk@users.noreply.github.com>
+Date:   Fri Jul 31 17:01:04 2020 +0530
+
+    Delete aggresivecows.exe
+
+[33mcommit 6c0788a9d676bc98d50da8c8fabccb79899c4b07[m
+Author: Gaurav Kandpal <kandpal862@gmail.com>
+Date:   Fri Jul 31 17:00:12 2020 +0530
+
+    aggresivecows
+
+[33mcommit ae8e9dd5841600eff1c2055cd99124e36792500b[m
+Author: Gaurav Kandpal <kandpal862@gmail.com>
+Date:   Fri Jul 31 16:10:56 2020 +0530
+
+    aggresive cows
+
+[33mcommit 944f3f3c65f700b4006f52d00799e46b387ffaeb[m
+Author: Gaurav Kandpal <kandpal862@gmail.com>
+Date:   Fri Jul 31 12:49:26 2020 +0530
+
+    bs
+
+[33mcommit 760208ca1cb5f3bbdb7fee1d531636d83aead635[m
+Author: Gaurav Kandpal <kandpal862@gmail.com>
+Date:   Thu Jul 30 18:43:38 2020 +0530
+
+    bs search
+
+[33mcommit 0e15d67cea50a2f0f582fcaee6c85731e6c796de[m
+Author: Gaurav Kandpal <kandpal862@gmail.com>
+Date:   Thu Jul 30 18:15:11 2020 +0530
+
+    bsagain
+
+[33mcommit 82b01b549bf8cc6bbf22fe2b88b078fab3e49f59[m
+Author: Gaurav Kandpal <kandpal862@gmail.com>
+Date:   Thu Jul 30 16:51:14 2020 +0530
+
+    bsearch
+
+[33mcommit d1ec6c803f05fb54ff88729cbe1b7f40c626f9e6[m
+Author: Gaurav Kandpal <kandpal862@gmail.com>
+Date:   Thu Jul 30 16:49:43 2020 +0530
+
+     bs search
+
+[33mcommit 5d783efaa192a154ddc72f747fa3ca981ea7ccba[m
+Author: Gaurav Kandpal <kandpal862@gmail.com>
+Date:   Wed Jul 29 23:44:57 2020 +0530
+
+    bsagain
+
+[33mcommit 9cc34c0116fb8bc3c6498cd13ace7b7fd194cbea[m
+Author: Gaurav Kandpal <kandpal862@gmail.com>
+Date:   Wed Jul 29 22:57:02 2020 +0530
+
+     binarysearch
+
+[33mcommit cf445a546d890c04a6c0460e93df1da319025d71[m
+Author: Gaurav Kandpal <kandpal862@gmail.com>
+Date:   Wed Jul 29 22:11:46 2020 +0530
+
+    binarysearchquestion
+
+[33mcommit 1a60e2d0558e71c085c4cb7eaeaa53194f3a21a0[m
+Author: Gaurav Kandpal <kandpal862@gmail.com>
+Date:   Wed Jul 29 16:10:35 2020 +0530
+
+    binarysearchquestion
