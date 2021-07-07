@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<body>
+<p > Get the cursor on image to change the Image !!</p><br/><br/>
+<imgsrc="img.jpg"  id="demo" onmouseover ="overFunction()" >
+<script>
+ function overFunction(){    if(document.getElementById("demo").src.match( "img.jpg")){
+document.getElementById("demo").src = "india.jpg" ;   }
+    else if(document.getElementById("demo").src.match("india.jpg"))
+    {
+document.getElementById("demo").src = "img.jpg";
+    }
+    }
+</script>
+</body>
+</html>

@@ -1,0 +1,27 @@
+{
+    "files.associations": {
+        "deque": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "random": "cpp",
+        "iostream": "cpp",
+        "array": "cpp",
+        "forward_list": "cpp",
+        "list": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "initializer_list": "cpp",
+        "regex": "cpp",
+        "valarray": "cpp",
+        "cmath": "cpp",
+        "ostream": "cpp",
+        "istream": "cpp",
+        "string_view": "cpp",
+        "chrono": "cpp",
+        "*.tcc": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Enabled",
+    "editor.fontFamily":"Fira Code",
+    "editor.fontLigatures": false,
+    "editor.lineHeight": 29
+}
