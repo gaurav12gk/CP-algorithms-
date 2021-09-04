@@ -18,7 +18,8 @@
         "istream": "cpp",
         "string_view": "cpp",
         "chrono": "cpp",
-        "*.tcc": "cpp"
+        "*.tcc": "cpp",
+        "iosfwd": "cpp"
     },
     "C_Cpp.errorSquiggles": "Enabled",
     "editor.fontFamily":"Fira Code",

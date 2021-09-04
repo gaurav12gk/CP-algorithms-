@@ -51,7 +51,7 @@ for(int i=0;i<v[current].size();i++)
 
     }
 }
-v oid solve()
+void solve()
 {
     int n,m;
     cin>>n>>m;

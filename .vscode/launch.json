@@ -5,6 +5,13 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "Launch first",
+            "request": "launch",
+            "mainClass": "first",
+            "projectName": "MAIN CP_e9adeb9b"
+        },
+        {
             "name": "cpp.exe - Build and debug active file",
             "type": "cppdbg",
             "request": "launch",
